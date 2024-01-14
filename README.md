@@ -1,11 +1,11 @@
+# Take home assessment
+
 - [x] Implement warrants feature
 - [x] UI simplification
 - [x] Leaderboard
 - [x] Data Analysis
 - [x] Minor bug fixes
-
-# Take home assessment
-
+      
 Documentation:
 
 In this modified code base, I have added the warrants feature (which includes the ability to add a warrant and challenge a competitor), redesigned the UI a bit to be more simplistic, added a leaderboard, and written Python code in a notebook to analyze the extracted data and present it in a friendly and understandable manner.
