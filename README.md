@@ -1,3 +1,8 @@
+- [x] Implement warrants feature
+- [x] UI simplification
+- [x] Leaderboard
+- [x] Data Analysis
+- [x] Minor bug fixes
 
 # Take home assessment
 
